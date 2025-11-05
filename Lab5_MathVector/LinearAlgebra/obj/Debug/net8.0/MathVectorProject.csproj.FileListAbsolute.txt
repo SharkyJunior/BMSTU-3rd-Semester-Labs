@@ -1,0 +1,12 @@
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\bin\Debug\net8.0\MathVectorProject.deps.json
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\bin\Debug\net8.0\MathVectorProject.dll
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\bin\Debug\net8.0\MathVectorProject.pdb
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.AssemblyInfoInputs.cache
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.AssemblyInfo.cs
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.csproj.CoreCompileInputs.cache
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.sourcelink.json
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.dll
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\refint\MathVectorProject.dll
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.pdb
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\ref\MathVectorProject.dll
