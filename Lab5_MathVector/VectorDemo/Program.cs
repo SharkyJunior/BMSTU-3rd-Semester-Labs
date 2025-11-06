@@ -1,6 +1,6 @@
-﻿using MathVectorProject;
+﻿using MathVectorNS;
 
-namespace DectorDemo
+namespace VectorDemo
 {
     class Program
     {

@@ -17,3 +17,22 @@ D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0
 D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.pdb
 D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.genruntimeconfig.cache
 D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\ref\VectorDemo.dll
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\bin\Debug\net8.0\VectorDemo.exe
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\bin\Debug\net8.0\VectorDemo.deps.json
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\bin\Debug\net8.0\VectorDemo.runtimeconfig.json
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\bin\Debug\net8.0\VectorDemo.dll
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\bin\Debug\net8.0\VectorDemo.pdb
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\bin\Debug\net8.0\MathVectorProject.dll
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\bin\Debug\net8.0\MathVectorProject.pdb
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.AssemblyInfo.cs
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.sourcelink.json
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.csproj.Up2Date
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.dll
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\refint\VectorDemo.dll
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.pdb
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\VectorDemo.genruntimeconfig.cache
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\VectorDemo\obj\Debug\net8.0\ref\VectorDemo.dll

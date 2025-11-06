@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace MathVectorProject
+namespace MathVectorNS
 {
     public interface IMathVector : IEnumerable
     {
@@ -9,8 +9,10 @@ namespace MathVectorProject
         double Length { get; }
         IMathVector SumNumber(double number);
         IMathVector MultiplyNumber(double number);
+        IMathVector DivideNumber(double number);
         IMathVector Sum(IMathVector vector);
         IMathVector Multiply(IMathVector vector);
+        IMathVector Divide(IMathVector vector);
         double ScalarMultiply(IMathVector vector);
         double CalcDistance(IMathVector vector);
     }

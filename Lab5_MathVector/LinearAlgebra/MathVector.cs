@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace MathVectorProject
+namespace MathVectorNS
 {
     public class MathVector : IMathVector
     {
@@ -78,7 +78,11 @@ namespace MathVectorProject
                 result[i] = this[i] * number;
             }
             return result;
+        }
 
+        public IMathVector DivideNumber(double number)
+        {
+            return MultiplyNumber(1.0 / number);
         }
 
         public IMathVector Sum(IMathVector vector)
@@ -107,6 +111,19 @@ namespace MathVectorProject
             }
             return result;
 
+        }
+
+        public IMathVector Divide(IMathVector vector)
+        {
+            if (vector.Dimensions != Dimensions)
+                throw new ArgumentException("Vectors must have the same dimensions");
+
+            var result = new MathVector(Dimensions);
+            for (int i = 0; i < Dimensions; ++i)
+            {
+                result[i] = this[i] / vector[i];
+            }
+            return result;
         }
 
         public double ScalarMultiply(IMathVector vector)
@@ -181,21 +198,25 @@ namespace MathVectorProject
             if (vector1.Dimensions != vector2.Dimensions)
                 throw new ArgumentException("Vectors must have the same dimensions");
 
-            var result = new MathVector(vector1.Dimensions);
-            for (int i = 0; i < vector1.Dimensions; ++i)
-            {
-                if (vector2[i] == 0)
-                    throw new DivideByZeroException();
-                result[i] = vector1[i] / vector2[i];
-            }
-            return result;
+            return (MathVector) vector1.Divide(vector2);
         }
 
         public static MathVector operator /(MathVector vector, double number)
         {
             if (number == 0)
                 throw new DivideByZeroException();
-            return (MathVector)vector.MultiplyNumber(1.0 / number);
+            return (MathVector)vector.DivideNumber(number);
+        }
+
+        public static MathVector operator %(MathVector vector1, MathVector vector2)
+        {
+            if (vector1.Dimensions != vector2.Dimensions)
+                throw new ArgumentException("Vectors must have the same dimensions");
+
+            var result = new MathVector(vector1.Dimensions);
+            for (int i = 0; i < vector1.Dimensions; ++i)
+                result[i] = vector1[i] * vector2[i];
+            return result;
         }
 
         public override string ToString()

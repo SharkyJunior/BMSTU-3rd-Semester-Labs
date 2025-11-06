@@ -10,3 +10,15 @@ D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net
 D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\refint\MathVectorProject.dll
 D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.pdb
 D:\Documents\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\ref\MathVectorProject.dll
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\bin\Debug\net8.0\MathVectorProject.deps.json
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\bin\Debug\net8.0\MathVectorProject.dll
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\bin\Debug\net8.0\MathVectorProject.pdb
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.AssemblyInfo.cs
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.sourcelink.json
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.dll
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\refint\MathVectorProject.dll
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\MathVectorProject.pdb
+C:\Mac\Home\Documents\BMSTU\3rd semester\BMSTU-3rd-Semester-Labs\Lab5_MathVector\LinearAlgebra\obj\Debug\net8.0\ref\MathVectorProject.dll
