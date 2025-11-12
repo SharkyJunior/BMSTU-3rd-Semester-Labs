@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace MathVectorNS
 {
@@ -82,6 +83,7 @@ namespace MathVectorNS
 
         public IMathVector DivideNumber(double number)
         {
+            if (number == 0) throw new DivideByZeroException();
             return MultiplyNumber(1.0 / number);
         }
 
@@ -96,7 +98,6 @@ namespace MathVectorNS
                 result[i] = this[i] + vector[i];
             }
             return result;
-
         }
 
         public IMathVector Multiply(IMathVector vector)
@@ -142,10 +143,14 @@ namespace MathVectorNS
 
         public double CalcDistance(IMathVector vector)
         {
+            if (vector.Dimensions != Dimensions)
+                throw new ArgumentException("Vectors must have the same dimensions");
+
             double distance = 0;
             for (int i = 0; i < Dimensions; ++i)
             {
-                distance += (this[i] - vector[i]) * (this[i] - vector[i]);
+                double diff = Math.Abs(this[i] - vector[i]);
+                distance += diff * diff;
             }
             return Math.Sqrt(distance);
         }
@@ -208,15 +213,12 @@ namespace MathVectorNS
             return (MathVector)vector.DivideNumber(number);
         }
 
-        public static MathVector operator %(MathVector vector1, MathVector vector2)
+        public static double operator %(MathVector vector1, MathVector vector2)
         {
             if (vector1.Dimensions != vector2.Dimensions)
                 throw new ArgumentException("Vectors must have the same dimensions");
 
-            var result = new MathVector(vector1.Dimensions);
-            for (int i = 0; i < vector1.Dimensions; ++i)
-                result[i] = vector1[i] * vector2[i];
-            return result;
+            return vector1.ScalarMultiply(vector2);
         }
 
         public override string ToString()

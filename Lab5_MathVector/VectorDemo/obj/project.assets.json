@@ -27,23 +27,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sharkyjunior\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\SharkyJr\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sharkyjunior\\Documents\\BMSTU\\Lab5_MathVector\\VectorDemo\\VectorDemo.csproj",
+      "projectUniqueName": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\VectorDemo\\VectorDemo.csproj",
       "projectName": "VectorDemo",
-      "projectPath": "C:\\Users\\sharkyjunior\\Documents\\BMSTU\\Lab5_MathVector\\VectorDemo\\VectorDemo.csproj",
-      "packagesPath": "C:\\Users\\sharkyjunior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sharkyjunior\\Documents\\BMSTU\\Lab5_MathVector\\VectorDemo\\obj\\",
+      "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\VectorDemo\\VectorDemo.csproj",
+      "packagesPath": "C:\\Users\\SharkyJr\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\VectorDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sharkyjunior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SharkyJr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -59,8 +61,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\sharkyjunior\\Documents\\BMSTU\\Lab5_MathVector\\LinearAlgebra\\MathVectorProject.csproj": {
-              "projectPath": "C:\\Users\\sharkyjunior\\Documents\\BMSTU\\Lab5_MathVector\\LinearAlgebra\\MathVectorProject.csproj"
+            "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\LinearAlgebra\\MathVectorProject.csproj": {
+              "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\LinearAlgebra\\MathVectorProject.csproj"
             }
           }
         }
@@ -96,7 +98,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
