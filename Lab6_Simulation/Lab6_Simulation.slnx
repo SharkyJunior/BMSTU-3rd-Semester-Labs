@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Demographic/Demographic.csproj" />
+  <Project Path="DemographicCsvReader/DemographicCsvReader.csproj" Id="24ccf1e1-c2ac-4cc1-9ac5-41bf0eb252cd">
+    <BuildDependency Project="Demographic/Demographic.csproj" />
+  </Project>
+  <Project Path="Lab6_Simulation/Lab6_Simulation.csproj">
+    <BuildDependency Project="Demographic/Demographic.csproj" />
+    <BuildDependency Project="DemographicCsvReader/DemographicCsvReader.csproj" />
+  </Project>
+</Solution>

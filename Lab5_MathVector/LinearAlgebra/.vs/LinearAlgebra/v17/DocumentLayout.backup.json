@@ -5,25 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F2CFD6B8-6D76-4BF6-94BE-2B1CD6FF1960}|MathVectorProject.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab5_mathvector\\linearalgebra\\mathvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2CFD6B8-6D76-4BF6-94BE-2B1CD6FF1960}|MathVectorProject.csproj|solutionrelative:mathvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71A5D783-F78D-4CA4-91A7-C66F0BC8D232}|..\\MathVectorUnitTest\\MathVectorUnitTest.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab5_mathvector\\mathvectorunittest\\mathvectorpropertytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71A5D783-F78D-4CA4-91A7-C66F0BC8D232}|..\\MathVectorUnitTest\\MathVectorUnitTest.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab5_mathvector\\mathvectorunittest\\mathvectoroperatorstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71A5D783-F78D-4CA4-91A7-C66F0BC8D232}|..\\MathVectorUnitTest\\MathVectorUnitTest.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab5_mathvector\\mathvectorunittest\\mathvectorvectoroperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71A5D783-F78D-4CA4-91A7-C66F0BC8D232}|..\\MathVectorUnitTest\\MathVectorUnitTest.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab5_mathvector\\mathvectorunittest\\mathvectorscalaroperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71A5D783-F78D-4CA4-91A7-C66F0BC8D232}|..\\MathVectorUnitTest\\MathVectorUnitTest.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab5_mathvector\\mathvectorunittest\\mathvectorconstructortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2CFD6B8-6D76-4BF6-94BE-2B1CD6FF1960}|MathVectorProject.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab5_mathvector\\linearalgebra\\imathvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2CFD6B8-6D76-4BF6-94BE-2B1CD6FF1960}|MathVectorProject.csproj|solutionrelative:imathvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,87 +34,9 @@
               "RelativeDocumentMoniker": "MathVector.cs",
               "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\LinearAlgebra\\MathVector.cs",
               "RelativeToolTip": "MathVector.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAmwFUAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwE4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T22:38:28.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MathVectorVectorOperationsTests.cs",
-              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\MathVectorUnitTest\\MathVectorVectorOperationsTests.cs",
-              "RelativeDocumentMoniker": "..\\MathVectorUnitTest\\MathVectorVectorOperationsTests.cs",
-              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\MathVectorUnitTest\\MathVectorVectorOperationsTests.cs",
-              "RelativeToolTip": "..\\MathVectorUnitTest\\MathVectorVectorOperationsTests.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAqwH0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:34:21.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MathVectorScalarOperationsTests.cs",
-              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\MathVectorUnitTest\\MathVectorScalarOperationsTests.cs",
-              "RelativeDocumentMoniker": "..\\MathVectorUnitTest\\MathVectorScalarOperationsTests.cs",
-              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\MathVectorUnitTest\\MathVectorScalarOperationsTests.cs",
-              "RelativeToolTip": "..\\MathVectorUnitTest\\MathVectorScalarOperationsTests.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAqwHEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:32:50.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MathVectorPropertyTests.cs",
-              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\MathVectorUnitTest\\MathVectorPropertyTests.cs",
-              "RelativeDocumentMoniker": "..\\MathVectorUnitTest\\MathVectorPropertyTests.cs",
-              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\MathVectorUnitTest\\MathVectorPropertyTests.cs",
-              "RelativeToolTip": "..\\MathVectorUnitTest\\MathVectorPropertyTests.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAiwEgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:32:04.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MathVectorConstructorTests.cs",
-              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\MathVectorUnitTest\\MathVectorConstructorTests.cs",
-              "RelativeDocumentMoniker": "..\\MathVectorUnitTest\\MathVectorConstructorTests.cs",
-              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\MathVectorUnitTest\\MathVectorConstructorTests.cs",
-              "RelativeToolTip": "..\\MathVectorUnitTest\\MathVectorConstructorTests.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:30:05.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MathVectorOperatorsTests.cs",
-              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\MathVectorUnitTest\\MathVectorOperatorsTests.cs",
-              "RelativeDocumentMoniker": "..\\MathVectorUnitTest\\MathVectorOperatorsTests.cs",
-              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\MathVectorUnitTest\\MathVectorOperatorsTests.cs",
-              "RelativeToolTip": "..\\MathVectorUnitTest\\MathVectorOperatorsTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T21:00:41.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IMathVector.cs",
-              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\LinearAlgebra\\IMathVector.cs",
-              "RelativeDocumentMoniker": "IMathVector.cs",
-              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab5_MathVector\\LinearAlgebra\\IMathVector.cs",
-              "RelativeToolTip": "IMathVector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T20:20:12.68Z",
               "EditorCaption": ""
             }
           ]

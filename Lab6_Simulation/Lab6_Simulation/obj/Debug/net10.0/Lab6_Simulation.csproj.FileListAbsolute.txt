@@ -1,0 +1,5 @@
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab6_Simulation\Lab6_Simulation\obj\Debug\net10.0\Lab6_Simulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab6_Simulation\Lab6_Simulation\obj\Debug\net10.0\Lab6_Simulation.AssemblyInfoInputs.cache
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab6_Simulation\Lab6_Simulation\obj\Debug\net10.0\Lab6_Simulation.AssemblyInfo.cs
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab6_Simulation\Lab6_Simulation\obj\Debug\net10.0\Lab6_Simulation.csproj.CoreCompileInputs.cache
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab6_Simulation\Lab6_Simulation\obj\Debug\net10.0\Lab6_Simulation.sourcelink.json

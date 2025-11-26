@@ -1,0 +1,5 @@
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab6_Simulation\Demographic\obj\Debug\net10.0\Demographic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab6_Simulation\Demographic\obj\Debug\net10.0\Demographic.AssemblyInfoInputs.cache
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab6_Simulation\Demographic\obj\Debug\net10.0\Demographic.AssemblyInfo.cs
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab6_Simulation\Demographic\obj\Debug\net10.0\Demographic.csproj.CoreCompileInputs.cache
+D:\Documents\BMSTU-3rd-Semester-Labs\Lab6_Simulation\Demographic\obj\Debug\net10.0\Demographic.sourcelink.json

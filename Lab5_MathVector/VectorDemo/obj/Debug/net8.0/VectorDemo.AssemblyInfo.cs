@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VectorDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05f4666c0ec2aa83625bf34c16e643f1563d3981")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685f2864dcf94cdd66f761fd5dd4cd7400e366f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("VectorDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VectorDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
