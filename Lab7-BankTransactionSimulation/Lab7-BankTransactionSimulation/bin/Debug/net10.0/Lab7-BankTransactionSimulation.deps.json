@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lab7-BankTransactionSimulation/1.0.0": {
+        "runtime": {
+          "Lab7-BankTransactionSimulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab7-BankTransactionSimulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

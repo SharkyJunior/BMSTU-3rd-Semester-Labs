@@ -17,8 +17,8 @@
   "libraries": {
     "Demographic/1.0.0": {
       "type": "project",
-      "path": "../Demographic/Demographic.csproj",
-      "msbuildProject": "../Demographic/Demographic.csproj"
+      "path": "../Demographic1/Demographic.csproj",
+      "msbuildProject": "../Demographic1/Demographic.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -61,8 +61,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Demographic.csproj": {
-              "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Demographic.csproj"
+            "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Demographic.csproj": {
+              "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Demographic.csproj"
             }
           }
         }

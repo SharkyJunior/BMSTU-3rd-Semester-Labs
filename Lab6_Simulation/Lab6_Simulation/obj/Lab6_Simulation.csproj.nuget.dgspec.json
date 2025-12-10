@@ -4,14 +4,14 @@
     "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Lab6_Simulation\\Lab6_Simulation.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicCsvReader\\DemographicCsvReader.csproj": {
+    "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Demographic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicCsvReader\\DemographicCsvReader.csproj",
-        "projectName": "DemographicCsvReader",
-        "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicCsvReader\\DemographicCsvReader.csproj",
+        "projectUniqueName": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Demographic.csproj",
+        "projectName": "Demographic",
+        "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Demographic.csproj",
         "packagesPath": "C:\\Users\\SharkyJr\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicCsvReader\\obj\\",
+        "outputPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,11 +33,7 @@
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
-            "projectReferences": {
-              "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Demographic.csproj": {
-                "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Demographic.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -349,14 +345,14 @@
         }
       }
     },
-    "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Demographic.csproj": {
+    "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\DemographicFileOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Demographic.csproj",
-        "projectName": "Demographic",
-        "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Demographic.csproj",
+        "projectUniqueName": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\DemographicFileOperations.csproj",
+        "projectName": "DemographicFileOperations",
+        "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\DemographicFileOperations.csproj",
         "packagesPath": "C:\\Users\\SharkyJr\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\obj\\",
+        "outputPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -378,7 +374,11 @@
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Demographic.csproj": {
+                "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Demographic.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -720,11 +720,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicCsvReader\\DemographicCsvReader.csproj": {
-                "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicCsvReader\\DemographicCsvReader.csproj"
+              "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Demographic.csproj": {
+                "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Demographic.csproj"
               },
-              "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Demographic.csproj": {
-                "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Demographic.csproj"
+              "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\DemographicFileOperations.csproj": {
+                "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\DemographicFileOperations.csproj"
               }
             }
           }

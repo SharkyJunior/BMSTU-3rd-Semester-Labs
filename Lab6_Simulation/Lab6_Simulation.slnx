@@ -1,10 +1,5 @@
 <Solution>
-  <Project Path="Demographic/Demographic.csproj" />
-  <Project Path="DemographicCsvReader/DemographicCsvReader.csproj" Id="24ccf1e1-c2ac-4cc1-9ac5-41bf0eb252cd">
-    <BuildDependency Project="Demographic/Demographic.csproj" />
-  </Project>
-  <Project Path="Lab6_Simulation/Lab6_Simulation.csproj">
-    <BuildDependency Project="Demographic/Demographic.csproj" />
-    <BuildDependency Project="DemographicCsvReader/DemographicCsvReader.csproj" />
-  </Project>
+  <Project Path="Demographic1/Demographic.csproj" Id="82c9e219-6f74-4d20-b3f0-3ac8913a463d" />
+  <Project Path="DemographicFileOperations/DemographicFileOperations.csproj" Id="1969ac6b-23b9-40ae-9a1e-e3dc4ebb7fa7" />
+  <Project Path="Lab6_Simulation/Lab6_Simulation.csproj" />
 </Solution>

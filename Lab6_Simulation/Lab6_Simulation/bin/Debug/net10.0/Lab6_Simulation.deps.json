@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lab6_Simulation/1.0.0": {
+        "dependencies": {
+          "Demographic": "1.0.0",
+          "DemographicFileOperations": "1.0.0"
+        },
+        "runtime": {
+          "Lab6_Simulation.dll": {}
+        }
+      },
+      "Demographic/1.0.0": {
+        "runtime": {
+          "Demographic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DemographicFileOperations/1.0.0": {
+        "dependencies": {
+          "Demographic": "1.0.0"
+        },
+        "runtime": {
+          "DemographicFileOperations.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab6_Simulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demographic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemographicFileOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

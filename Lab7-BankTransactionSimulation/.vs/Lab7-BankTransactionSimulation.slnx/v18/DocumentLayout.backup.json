@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab7-banktransactionsimulation\\lab7-banktransactionsimulation\\core\\transactionqueuesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|solutionrelative:lab7-banktransactionsimulation\\core\\transactionqueuesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab7-banktransactionsimulation\\lab7-banktransactionsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|solutionrelative:lab7-banktransactionsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab7-banktransactionsimulation\\lab7-banktransactionsimulation\\system\\systemlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|solutionrelative:lab7-banktransactionsimulation\\system\\systemlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab7-banktransactionsimulation\\lab7-banktransactionsimulation\\system\\systemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|solutionrelative:lab7-banktransactionsimulation\\system\\systemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab7-banktransactionsimulation\\lab7-banktransactionsimulation\\models\\queuemetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|solutionrelative:lab7-banktransactionsimulation\\models\\queuemetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab7-banktransactionsimulation\\lab7-banktransactionsimulation\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EDD18-86A9-4481-8327-BF7F68FEA9B1}|Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation.csproj|solutionrelative:lab7-banktransactionsimulation\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7-BankTransactionSimulation\\Program.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Program.cs",
+              "RelativeToolTip": "Lab7-BankTransactionSimulation\\Program.cs",
+              "ViewState": "AgIAAEAAAADAmZmZmZkuwBoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:03:55.824Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemLogger.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\System\\SystemLogger.cs",
+              "RelativeDocumentMoniker": "Lab7-BankTransactionSimulation\\System\\SystemLogger.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\System\\SystemLogger.cs",
+              "RelativeToolTip": "Lab7-BankTransactionSimulation\\System\\SystemLogger.cs",
+              "ViewState": "AgIAABkAAACA/////38wwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:42:47.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionQueueSystem.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Core\\TransactionQueueSystem.cs",
+              "RelativeDocumentMoniker": "Lab7-BankTransactionSimulation\\Core\\TransactionQueueSystem.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Core\\TransactionQueueSystem.cs",
+              "RelativeToolTip": "Lab7-BankTransactionSimulation\\Core\\TransactionQueueSystem.cs",
+              "ViewState": "AgIAAG8CAAAA0MzMzMwEwIYCAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:13:47.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemConfig.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\System\\SystemConfig.cs",
+              "RelativeDocumentMoniker": "Lab7-BankTransactionSimulation\\System\\SystemConfig.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\System\\SystemConfig.cs",
+              "RelativeToolTip": "Lab7-BankTransactionSimulation\\System\\SystemConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:12:20.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueMetrics.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Models\\QueueMetrics.cs",
+              "RelativeDocumentMoniker": "Lab7-BankTransactionSimulation\\Models\\QueueMetrics.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Models\\QueueMetrics.cs",
+              "RelativeToolTip": "Lab7-BankTransactionSimulation\\Models\\QueueMetrics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:12:26.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Lab7-BankTransactionSimulation\\Models\\Transaction.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Models\\Transaction.cs",
+              "RelativeToolTip": "Lab7-BankTransactionSimulation\\Models\\Transaction.cs",
+              "ViewState": "AgIAABMAAACAZmZmZmY4wB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:09:47.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

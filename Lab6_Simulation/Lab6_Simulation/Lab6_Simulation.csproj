@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DemographicCsvReader\DemographicCsvReader.csproj" />
-    <ProjectReference Include="..\Demographic\Demographic.csproj" />
+    <ProjectReference Include="..\Demographic1\Demographic.csproj" />
+    <ProjectReference Include="..\DemographicFileOperations\DemographicFileOperations.csproj" />
   </ItemGroup>
 
 </Project>

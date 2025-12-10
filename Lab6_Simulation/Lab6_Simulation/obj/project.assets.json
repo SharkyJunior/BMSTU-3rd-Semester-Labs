@@ -12,17 +12,17 @@
           "bin/placeholder/Demographic.dll": {}
         }
       },
-      "DemographicCsvReader/1.0.0": {
+      "DemographicFileOperations/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Demographic": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/DemographicCsvReader.dll": {}
+          "bin/placeholder/DemographicFileOperations.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DemographicCsvReader.dll": {}
+          "bin/placeholder/DemographicFileOperations.dll": {}
         }
       }
     }
@@ -30,19 +30,19 @@
   "libraries": {
     "Demographic/1.0.0": {
       "type": "project",
-      "path": "../Demographic/Demographic.csproj",
-      "msbuildProject": "../Demographic/Demographic.csproj"
+      "path": "../Demographic1/Demographic.csproj",
+      "msbuildProject": "../Demographic1/Demographic.csproj"
     },
-    "DemographicCsvReader/1.0.0": {
+    "DemographicFileOperations/1.0.0": {
       "type": "project",
-      "path": "../DemographicCsvReader/DemographicCsvReader.csproj",
-      "msbuildProject": "../DemographicCsvReader/DemographicCsvReader.csproj"
+      "path": "../DemographicFileOperations/DemographicFileOperations.csproj",
+      "msbuildProject": "../DemographicFileOperations/DemographicFileOperations.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "Demographic >= 1.0.0",
-      "DemographicCsvReader >= 1.0.0"
+      "DemographicFileOperations >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -80,11 +80,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicCsvReader\\DemographicCsvReader.csproj": {
-              "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicCsvReader\\DemographicCsvReader.csproj"
+            "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Demographic.csproj": {
+              "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Demographic.csproj"
             },
-            "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Demographic.csproj": {
-              "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Demographic.csproj"
+            "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\DemographicFileOperations.csproj": {
+              "projectPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\DemographicFileOperations.csproj"
             }
           }
         }

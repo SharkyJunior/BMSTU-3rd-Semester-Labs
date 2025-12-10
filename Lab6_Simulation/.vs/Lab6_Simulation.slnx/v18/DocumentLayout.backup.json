@@ -3,12 +3,39 @@
   "WorkspaceRootPath": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82C9E219-6F74-4D20-B3F0-3AC8913A463D}|Demographic1\\Demographic.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab6_simulation\\demographic1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9E219-6F74-4D20-B3F0-3AC8913A463D}|Demographic1\\Demographic.csproj|solutionrelative:demographic1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9E219-6F74-4D20-B3F0-3AC8913A463D}|Demographic1\\Demographic.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab6_simulation\\demographic1\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9E219-6F74-4D20-B3F0-3AC8913A463D}|Demographic1\\Demographic.csproj|solutionrelative:demographic1\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F3039506-1FE0-868E-5DC1-E196F4FDEF5B}|Lab6_Simulation\\Lab6_Simulation.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab6_simulation\\lab6_simulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3039506-1FE0-868E-5DC1-E196F4FDEF5B}|Lab6_Simulation\\Lab6_Simulation.csproj|solutionrelative:lab6_simulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B20DB2FA-EC18-5038-9705-CD4CB4546B35}|Demographic\\Demographic.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab6_simulation\\demographic\\interfaces\\ideathrulesprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B20DB2FA-EC18-5038-9705-CD4CB4546B35}|Demographic\\Demographic.csproj|solutionrelative:demographic\\interfaces\\ideathrulesprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Models\\Enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9E219-6F74-4D20-B3F0-3AC8913A463D}|Demographic1\\Demographic.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab6_simulation\\demographic1\\engine\\probabilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9E219-6F74-4D20-B3F0-3AC8913A463D}|Demographic1\\Demographic.csproj|solutionrelative:demographic1\\engine\\probabilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9E219-6F74-4D20-B3F0-3AC8913A463D}|Demographic1\\Demographic.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab6_simulation\\demographic1\\results\\simulationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9E219-6F74-4D20-B3F0-3AC8913A463D}|Demographic1\\Demographic.csproj|solutionrelative:demographic1\\results\\simulationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1969AC6B-23B9-40AE-9A1E-E3DC4EBB7FA7}|DemographicFileOperations\\DemographicFileOperations.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab6_simulation\\demographicfileoperations\\csvresultwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1969AC6B-23B9-40AE-9A1E-E3DC4EBB7FA7}|DemographicFileOperations\\DemographicFileOperations.csproj|solutionrelative:demographicfileoperations\\csvresultwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1969AC6B-23B9-40AE-9A1E-E3DC4EBB7FA7}|DemographicFileOperations\\DemographicFileOperations.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab6_simulation\\demographicfileoperations\\csvdeathrulesreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1969AC6B-23B9-40AE-9A1E-E3DC4EBB7FA7}|DemographicFileOperations\\DemographicFileOperations.csproj|solutionrelative:demographicfileoperations\\csvdeathrulesreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C9E219-6F74-4D20-B3F0-3AC8913A463D}|Demographic1\\Demographic.csproj|d:\\documents\\bmstu-3rd-semester-labs\\lab6_simulation\\demographic1\\interfaces\\ideathrulesprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C9E219-6F74-4D20-B3F0-3AC8913A463D}|Demographic1\\Demographic.csproj|solutionrelative:demographic1\\interfaces\\ideathrulesprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +53,116 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Lab6_Simulation\\Program.cs",
-              "RelativeDocumentMoniker": "Lab6_Simulation\\Program.cs",
-              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Lab6_Simulation\\Program.cs",
-              "RelativeToolTip": "Lab6_Simulation\\Program.cs",
+              "DocumentIndex": 3,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "..\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Models\\Enums.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Models\\Enums.cs",
+              "RelativeToolTip": "..\\Lab7-BankTransactionSimulation\\Lab7-BankTransactionSimulation\\Models\\Enums.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T19:27:42.166Z",
+              "WhenOpened": "2025-12-05T11:55:27.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Demographic1\\Models\\Person.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Models\\Person.cs",
+              "RelativeToolTip": "Demographic1\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAmpmZmZn9vwoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:15:15.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimulationResult.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Results\\SimulationResult.cs",
+              "RelativeDocumentMoniker": "Demographic1\\Results\\SimulationResult.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Results\\SimulationResult.cs",
+              "RelativeToolTip": "Demographic1\\Results\\SimulationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:08:42.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CsvResultWriter.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\CsvResultWriter.cs",
+              "RelativeDocumentMoniker": "DemographicFileOperations\\CsvResultWriter.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\CsvResultWriter.cs",
+              "RelativeToolTip": "DemographicFileOperations\\CsvResultWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:08:34.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CsvDeathRulesReader.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\CsvDeathRulesReader.cs",
+              "RelativeDocumentMoniker": "DemographicFileOperations\\CsvDeathRulesReader.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\DemographicFileOperations\\CsvDeathRulesReader.cs",
+              "RelativeToolTip": "DemographicFileOperations\\CsvDeathRulesReader.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAARwBIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:07:59.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDeathRulesProvider.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Interfaces\\IDeathRulesProvider.cs",
+              "RelativeDocumentMoniker": "Demographic1\\Interfaces\\IDeathRulesProvider.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Interfaces\\IDeathRulesProvider.cs",
+              "RelativeToolTip": "Demographic1\\Interfaces\\IDeathRulesProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:07:55.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProbabilityCalculator.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Engine\\ProbabilityCalculator.cs",
+              "RelativeDocumentMoniker": "Demographic1\\Engine\\ProbabilityCalculator.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Engine\\ProbabilityCalculator.cs",
+              "RelativeToolTip": "Demographic1\\Engine\\ProbabilityCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:07:48.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IDeathRulesProvider.cs",
-              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Interfaces\\IDeathRulesProvider.cs",
-              "RelativeDocumentMoniker": "Demographic\\Interfaces\\IDeathRulesProvider.cs",
-              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic\\Interfaces\\IDeathRulesProvider.cs",
-              "RelativeToolTip": "Demographic\\Interfaces\\IDeathRulesProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Engine\\Engine.cs",
+              "RelativeDocumentMoniker": "Demographic1\\Engine\\Engine.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Demographic1\\Engine\\Engine.cs",
+              "RelativeToolTip": "Demographic1\\Engine\\Engine.cs",
+              "ViewState": "AgIAAA0AAACA0MzMzMwWwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T18:52:11.73Z",
+              "WhenOpened": "2025-11-27T05:45:20.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Lab6_Simulation\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6_Simulation\\Program.cs",
+              "ToolTip": "D:\\Documents\\BMSTU-3rd-Semester-Labs\\Lab6_Simulation\\Lab6_Simulation\\Program.cs",
+              "RelativeToolTip": "Lab6_Simulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:27:42.166Z",
               "EditorCaption": ""
             }
           ]
